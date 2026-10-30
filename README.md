@@ -1,5 +1,5 @@
 <!--
-BYTEBANDIT | GitHub Profile README
+  | GitHub Profile README
 By Ahmad Imran
 -->
 
@@ -11,7 +11,7 @@ By Ahmad Imran
 
 <br/>
 
-🥷 Ahmad Imran | BYTEBANDIT
+🥷 Ahmad Imran  
 
 AI/ML Engineer · Deep Learning · Generative AI · Full-Stack Developer
 
@@ -34,7 +34,7 @@ AI/ML Engineer · Deep Learning · Generative AI · Full-Stack Developer
 
 👾 WHO AM I?
 
-Hey! I'm Ahmad Imran, the developer behind BYTEBANDIT.
+Hey! I'm Ahmad Imran, the developer behind  .
 
 I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning, and modern web technologies.
 
@@ -252,7 +252,7 @@ Have an interesting idea? Let's build something intelligent together.
 
 <br/><br/>
 
-🥷 Stealing Bugs. Building Intelligence.
+Building Intelligence.
 
 ⭐ If you like my work, consider starring my repositories!
 

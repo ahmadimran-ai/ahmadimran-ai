@@ -11,7 +11,7 @@ By Ahmad Imran
 
 <br/>
 
-🥷 Ahmad Imran  
+ Ahmad Imran  
 
 AI/ML Engineer · Deep Learning · Generative AI · Full-Stack Developer
 

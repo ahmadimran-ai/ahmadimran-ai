@@ -1,23 +1,46 @@
-<!--
-  | GitHub Profile README
-By Ahmad Imran
--->
+
+<!-- GitHub Profile README -->
 
 <div align="center">
 
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/16712.jpg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,25:7928CA,50:0070F3,75:00DFD8,100:00FF87&height=250&section=header&text=HEY%20THERE!&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20Digital%20Universe%20%F0%9F%9A%80&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Generative+AI+Explorer+%E2%9C%A8;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=I'm+Ahmad+Imran+%F0%9F%91%8B;AI%2FML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Generative+AI+Explorer+%E2%9C%A8;Full+Stack+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Intelligence+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
- Ahmad Imran  
+# 👨‍💻 Ahmad Imran
 
-AI/ML Engineer · Deep Learning · Generative AI · Full-Stack Developer
+### ✨ AI/ML Engineer | Deep Learning | Generative AI | Full-Stack Developer
 
 📍 Lahore, Pakistan 🇵🇰
 
 <br/>
+
+## 🌈 A LITTLE ABOUT ME
+
+🚀 Passionate about building intelligent solutions.
+
+🧠 Exploring AI, Machine Learning & Deep Learning.
+
+🤖 Experimenting with Generative AI and LLMs.
+
+💻 Creating innovative full-stack applications.
+
+⚡ Always learning, building and breaking things!
+
+🎯 Turning coffee ☕ into code.
+
+<br/>
+
+## 💫 MY DEVELOPER VIBE
+
+**Think Creative. Code Smart. Build Different.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:0070F3,100:FF00CC&height=110&section=footer" width="100%"/>
+
+</div>
+
 
 <a href="https://github.com/ahmadimran-ai">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>

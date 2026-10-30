@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<!-- HEADER -->
+
 
 
 
@@ -284,6 +284,5 @@ Another project from my development collection.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:303030,100:000000&height=130&section=footer" width="100%"/>
 
 </div>
